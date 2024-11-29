@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning java css Html
 ### 💞️ sou dançarino contemporâneo
 ### 📫 How to reach me pelo o meu gmail muryel.lirio@estudante.iftm.edu.br
-
+### 🤠 sou estudande do iftm udi centro
 
 <!---
 Muryel47/Muryel47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
